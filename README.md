@@ -2,7 +2,7 @@
 
 
 - 👨🏼‍🎓 I'm an [ETML](https://etml.ch) student
-- 🌱 I’m currently learning *Python* and *C#*
+- 🌱 I’m currently learning *Python*, *C#* and *PHP*
 - 🔭 I love development and programming
 
 ### The OS that I use :
