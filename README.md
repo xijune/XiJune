@@ -13,6 +13,7 @@
 ### The IDE that I use :
 <p align ="left">
   <img alt="VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;
+  <img alt="JETBRAINS" src="https://img.shields.io/static/v1?style=for-the-badge&message=JetBrains&color=000000&logo=JetBrains&logoColor=FFFFFF&"/>&nbsp;
 </p>
 
 ### Languages that I know :
