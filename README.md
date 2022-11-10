@@ -8,6 +8,7 @@
 ### The OS that I use :
 <p align ="left">
   <img alt="WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>&nbsp;
+  <img alt="LINUX" src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white"/>&nbsp;
 </p>
 
 ### The IDE that I use :
