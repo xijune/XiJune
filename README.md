@@ -11,12 +11,6 @@
   <img alt="LINUX" src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white"/>&nbsp;
 </p>
 
-### The IDE that I use :
-<p align ="left">
-  <img alt="VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;
-  <img alt="JETBRAINS" src="https://img.shields.io/badge/JetBrains-black?style=for-the-badge&logo=jetbrains&logoColor=white"/>&nbsp;
-</p>
-
 ### Languages that I know :
 <p align ="left"> 
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
