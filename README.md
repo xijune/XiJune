@@ -2,7 +2,7 @@
 
 
 - 👨🏼‍🎓 I'm an [ETML](https://etml.ch) student
-- 🌱 I’m currently learning *Python*, *C#* and *PHP*
+- 🌱 I’m currently learning *Python*, *C#*, *C++* and *PHP*
 - 🔭 I love development and programming
 
 ### The OS that I use :
@@ -24,4 +24,5 @@
   <img alt="PHP" src="https://img.shields.io/badge/Php-black?style=for-the-badge&logo=php&logoColor=white"/>&nbsp;
   <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>&nbsp;
   <img alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
+  <img alt="C++" src="https://img.shields.io/badge/c++-14354C?style=for-the-badge&logo=c++&logoColor=white"/>&nbsp;
 </p>
