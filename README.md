@@ -20,3 +20,6 @@
   <img alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
   <img alt="C++" src="https://img.shields.io/badge/c++-0075C0?style=for-the-badge&logo=c++&logoColor=white"/>&nbsp;
 </p>
+
+[<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xijune&theme=light&langs_count=6&layout=compact">](./#gh-light-mode-only)
+[<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xijune&theme=nord&langs_count=6&layout=compact">](./#gh-dark-mode-only)
