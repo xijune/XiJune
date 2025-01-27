@@ -1,7 +1,5 @@
 ### Welcome on my GitHub profil 🐈
 
-
-- 👨🏼‍🎓 I'm an [ETML](https://etml.ch) student
 - 🌱 I’m currently learning *Python*, *C#*, *C++* and *PHP*
 - 🔭 I love development and programming
 
