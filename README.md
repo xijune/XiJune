@@ -1,7 +1,7 @@
 ### Welcome on my GitHub profil 🐈
 
-- 🌱 I’m currently learning *Python*, *C#*, *C++* and *PHP*
-- 🔭 I love development and programming
+- 🌱 I’m currently learning *AL*, *Python* and *C#*
+- 🔭 I love back-end developement
 
 ### The OS that I use :
 <p align ="left">
